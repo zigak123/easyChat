@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyChat", "EasyChat\EasyChat.csproj", "{493C4CB6-9738-4B6A-8B04-0BB5F38B06DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493C4CB6-9738-4B6A-8B04-0BB5F38B06DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493C4CB6-9738-4B6A-8B04-0BB5F38B06DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493C4CB6-9738-4B6A-8B04-0BB5F38B06DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493C4CB6-9738-4B6A-8B04-0BB5F38B06DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F080CDED-2F58-4EAF-A171-3F672C666227}
+	EndGlobalSection
+EndGlobal
