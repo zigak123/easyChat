@@ -65,7 +65,7 @@ namespace EasyChat
                         var identity = (ClaimsIdentity)context.Principal.Identity;
                         var profileImg = context.User["image"].Value<string>("url");
                         identity.AddClaim(new Claim("profileImg", profileImg));
-                        identity.AddClaim(new Claim("shfit", "fuck"));
+                        identity.AddClaim(new Claim("shritt", "fuck"));
                         return Task.FromResult(0);
                     }
                 };
